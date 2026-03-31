@@ -1,3 +1,1 @@
-# Koło Naukowe Tristate
-
-TODO
+## TODO
